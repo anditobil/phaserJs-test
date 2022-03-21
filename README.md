@@ -9,4 +9,4 @@ I used basic phaser3 phaser for the code. I made own plugin to make faster and u
 - When tools shown, the result of spin will depend on symbol position of the reel
 
 **Demo**
-https://porto.andiwaluyo.com/projects/phaser-test/slot/index.html
+https://porto.andiwaluyo.com/projects/phaser-test/slot_v2/index.html
